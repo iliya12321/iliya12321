@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me:
-👋 Hi, I’m Il\`ya Vorob\`yow
+👋 Hi, I’m Il'ya vorob'yov
 
 👀 I am a Python developer (backend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
