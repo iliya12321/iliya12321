@@ -26,7 +26,7 @@
 
 🌱 I’m currently studying at Yandex Practicum
 
-💞️ I started studying Python and backend development in July 2022
+💞️ I started studying Python and backend development in May 2022
 
 ---
 
