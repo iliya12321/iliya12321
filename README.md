@@ -24,9 +24,9 @@
 
 👀 I am a Python developer (backend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-🌱 I’m currently studying at Yandex Practicum
-
 💞️ I started studying Python and backend development in May 2022
+
+🌱 I’m finished studying at Yandex Practicum
 
 ---
 
