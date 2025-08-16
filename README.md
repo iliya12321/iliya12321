@@ -88,3 +88,5 @@ My name is Il`ya and I am a Python backend developer.
 
 ### OS
 ![](https://img.shields.io/badge/Linux-blue)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/iliya12321/iliya12321?color=blue&style=flat-square)
