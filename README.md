@@ -69,8 +69,5 @@ My name is Il'ya and I am a Senior Python Backend Developer specializing in high
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Observability
-![](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-![](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
