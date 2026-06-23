@@ -12,13 +12,13 @@ My name is Il'ya and I am a Senior Python Backend Developer specializing in high
 ![](https://img.shields.io/badge/LangGraph-FF6B35?style=flat)
 ![](https://img.shields.io/badge/LangChain-121D33?style=flat)
 ![](https://img.shields.io/badge/LlamaIndex-8E44AD?style=flat)
-![](https://img.shields.io/badge/vLLM-00A67E?style=flat)
-![](https://img.shields.io/badge/LangSmith-1E88E5?style=flat)
-![](https://img.shields.io/badge/DeepEval-6A1B9A?style=flat)
 ![](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/RAG-009688?style=flat)
 ![](https://img.shields.io/badge/MCP-4285F4?style=flat)
 ![](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+![](https://img.shields.io/badge/vLLM-00A67E?style=flat)
+![](https://img.shields.io/badge/LangSmith-1E88E5?style=flat)
+![](https://img.shields.io/badge/DeepEval-6A1B9A?style=flat)
 
 ### Architecture & Design Patterns
 ![](https://img.shields.io/badge/Microservices-FF6F00?style=flat)
